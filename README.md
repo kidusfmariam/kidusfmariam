@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kidus F.mariam
 ======================================================================================================================================
 
-Web Developer and Designer
---------------------------
 
-I've been coding for close to six months and I plan to break into tech soon.
 
 ### Skills
 
